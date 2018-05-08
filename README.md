@@ -1,0 +1,2 @@
+# Initialize-
+Memset Vs Fill
